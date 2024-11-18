@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ed6a425-7589-4ddd-8d9f-f9f7e6e7f364" name="更改" comment="6-3提交" />
+    <list default="true" id="7ed6a425-7589-4ddd-8d9f-f9f7e6e7f364" name="更改" comment="6-3提交">
+      <change afterPath="$PROJECT_DIR$/exp7/7-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exp7/7-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exp7/wind.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exp8/8-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exp8/8-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exp8/decrypted.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exp8/encrypted.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exp8/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exp8/numbers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonexp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonexp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,41 +54,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1-1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1-3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3-1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3-3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4-3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5-3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6-3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.eq.executor&quot;: &quot;Run&quot;,
-    &quot;Python.idnumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.maxmin.executor&quot;: &quot;Run&quot;,
-    &quot;Python.replace_e.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sanjiao.executor&quot;: &quot;Run&quot;,
-    &quot;Python.score.executor&quot;: &quot;Run&quot;,
-    &quot;Python.str.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.trans.executor&quot;: &quot;Run&quot;,
-    &quot;Python.triganle.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1-1.executor": "Run",
+    "Python.1-2.executor": "Run",
+    "Python.1-3.executor": "Run",
+    "Python.3-1.executor": "Run",
+    "Python.3-2.executor": "Run",
+    "Python.3-3.executor": "Run",
+    "Python.4-2.executor": "Run",
+    "Python.4-3.executor": "Run",
+    "Python.5-2.executor": "Run",
+    "Python.5-3.executor": "Run",
+    "Python.6-2.executor": "Run",
+    "Python.6-3.executor": "Run",
+    "Python.7-2.executor": "Run",
+    "Python.7-3.executor": "Run",
+    "Python.8-1.executor": "Run",
+    "Python.8-2.executor": "Run",
+    "Python.eq.executor": "Run",
+    "Python.idnumber.executor": "Run",
+    "Python.maxmin.executor": "Run",
+    "Python.replace_e.executor": "Run",
+    "Python.sanjiao.executor": "Run",
+    "Python.score.executor": "Run",
+    "Python.str.executor": "Run",
+    "Python.string.executor": "Run",
+    "Python.trans.executor": "Run",
+    "Python.triganle.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python3Project\pythonexp\exp2" />
@@ -86,8 +104,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
-        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
+        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -111,6 +129,10 @@
       <workItem from="1730213360665" duration="30000" />
       <workItem from="1730686859346" duration="4896000" />
       <workItem from="1730692322917" duration="185000" />
+      <workItem from="1731891667640" duration="53000" />
+      <workItem from="1731891729962" duration="97000" />
+      <workItem from="1731897496793" duration="2048000" />
+      <workItem from="1731899905045" duration="1218000" />
     </task>
     <task id="LOCAL-00001" summary="第二章代码">
       <option name="closed" value="true" />
@@ -211,28 +233,43 @@
     <MESSAGE value="6-3提交" />
     <option name="LAST_COMMIT_MESSAGE" value="6-3提交" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exp7/7-2.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonexp$1_1.coverage" NAME="1-1 覆盖结果" MODIFIED="1727429537367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp1" />
-    <SUITE FILE_PATH="coverage/pythonexp$string.coverage" NAME="string 覆盖结果" MODIFIED="1727429490897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonexp$eq.coverage" NAME="eq 覆盖结果" MODIFIED="1728304691812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp2" />
-    <SUITE FILE_PATH="coverage/pythonexp$4_2.coverage" NAME="4-2 覆盖结果" MODIFIED="1730085726599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp4" />
-    <SUITE FILE_PATH="coverage/pythonexp$3_1.coverage" NAME="3-1 覆盖结果" MODIFIED="1728875060581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp3" />
-    <SUITE FILE_PATH="coverage/pythonexp$5_2.coverage" NAME="5-2 覆盖结果" MODIFIED="1730085715972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp5" />
+    <SUITE FILE_PATH="coverage/pythonexp$triganle.coverage" NAME="triganle 覆盖结果" MODIFIED="1727665266633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp2/exp2homework" />
     <SUITE FILE_PATH="coverage/pythonexp$str.coverage" NAME="str 覆盖结果" MODIFIED="1727667894047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp3/exp3homework" />
     <SUITE FILE_PATH="coverage/pythonexp$sanjiao.coverage" NAME="sanjiao 覆盖结果" MODIFIED="1727429409939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonexp$6_3.coverage" NAME="6-3 覆盖结果" MODIFIED="1730691122538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp6" />
-    <SUITE FILE_PATH="coverage/pythonexp$trans.coverage" NAME="trans 覆盖结果" MODIFIED="1728304782929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp3" />
+    <SUITE FILE_PATH="coverage/Python___CWNU$8_2.coverage" NAME="8-2 覆盖结果" MODIFIED="1731898161970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp8" />
     <SUITE FILE_PATH="coverage/pythonexp$4_3.coverage" NAME="4-3 覆盖结果" MODIFIED="1730085763224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp4" />
-    <SUITE FILE_PATH="coverage/pythonexp$triganle.coverage" NAME="triganle 覆盖结果" MODIFIED="1727665266633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp2/exp2homework" />
     <SUITE FILE_PATH="coverage/pythonexp$3_2.coverage" NAME="3-2 覆盖结果" MODIFIED="1728875073007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp3" />
-    <SUITE FILE_PATH="coverage/pythonexp$1_2.coverage" NAME="1-2 覆盖结果" MODIFIED="1727429561740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp1" />
-    <SUITE FILE_PATH="coverage/pythonexp$6_2.coverage" NAME="6-2 覆盖结果" MODIFIED="1730691058119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp6" />
-    <SUITE FILE_PATH="coverage/pythonexp$maxmin.coverage" NAME="maxmin 覆盖结果" MODIFIED="1727429467387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonexp$1_3.coverage" NAME="1-3 覆盖结果" MODIFIED="1727429595032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp1" />
-    <SUITE FILE_PATH="coverage/pythonexp$3_3.coverage" NAME="3-3 覆盖结果" MODIFIED="1728874309146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp3" />
-    <SUITE FILE_PATH="coverage/pythonexp$5_3.coverage" NAME="5-3 覆盖结果" MODIFIED="1730083963235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp5" />
-    <SUITE FILE_PATH="coverage/pythonexp$score.coverage" NAME="score 覆盖结果" MODIFIED="1727662502251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp2/exp2homework" />
-    <SUITE FILE_PATH="coverage/pythonexp$replace_e.coverage" NAME="replace_e 覆盖结果" MODIFIED="1727668511938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp3/exp3homework" />
     <SUITE FILE_PATH="coverage/pythonexp$idnumber.coverage" NAME="idnumber 覆盖结果" MODIFIED="1728303726988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp3/exp3homework" />
+    <SUITE FILE_PATH="coverage/pythonexp$1_3.coverage" NAME="1-3 覆盖结果" MODIFIED="1727429595032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp1" />
+    <SUITE FILE_PATH="coverage/pythonexp$6_3.coverage" NAME="6-3 覆盖结果" MODIFIED="1730691122538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp6" />
+    <SUITE FILE_PATH="coverage/Python___CWNU$8_1.coverage" NAME="8-1 覆盖结果" MODIFIED="1731897607409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp8" />
+    <SUITE FILE_PATH="coverage/pythonexp$4_2.coverage" NAME="4-2 覆盖结果" MODIFIED="1730085726599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp4" />
+    <SUITE FILE_PATH="coverage/Python___CWNU$7_3.coverage" NAME="7-3 覆盖结果" MODIFIED="1731901096925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp7" />
+    <SUITE FILE_PATH="coverage/pythonexp$3_1.coverage" NAME="3-1 覆盖结果" MODIFIED="1728875060581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp3" />
+    <SUITE FILE_PATH="coverage/pythonexp$string.coverage" NAME="string 覆盖结果" MODIFIED="1727429490897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonexp$5_3.coverage" NAME="5-3 覆盖结果" MODIFIED="1730083963235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp5" />
+    <SUITE FILE_PATH="coverage/pythonexp$trans.coverage" NAME="trans 覆盖结果" MODIFIED="1728304782929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp3" />
+    <SUITE FILE_PATH="coverage/pythonexp$maxmin.coverage" NAME="maxmin 覆盖结果" MODIFIED="1727429467387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonexp$1_2.coverage" NAME="1-2 覆盖结果" MODIFIED="1727429561740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp1" />
+    <SUITE FILE_PATH="coverage/pythonexp$5_2.coverage" NAME="5-2 覆盖结果" MODIFIED="1730085715972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp5" />
+    <SUITE FILE_PATH="coverage/Python___CWNU$7_2.coverage" NAME="7-2 覆盖结果" MODIFIED="1731900758672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp7" />
+    <SUITE FILE_PATH="coverage/pythonexp$eq.coverage" NAME="eq 覆盖结果" MODIFIED="1728304691812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp2" />
+    <SUITE FILE_PATH="coverage/pythonexp$3_3.coverage" NAME="3-3 覆盖结果" MODIFIED="1728874309146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp3" />
+    <SUITE FILE_PATH="coverage/pythonexp$score.coverage" NAME="score 覆盖结果" MODIFIED="1727662502251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp2/exp2homework" />
+    <SUITE FILE_PATH="coverage/pythonexp$1_1.coverage" NAME="1-1 覆盖结果" MODIFIED="1727429537367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp1" />
+    <SUITE FILE_PATH="coverage/pythonexp$replace_e.coverage" NAME="replace_e 覆盖结果" MODIFIED="1727668511938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp3/exp3homework" />
+    <SUITE FILE_PATH="coverage/pythonexp$6_2.coverage" NAME="6-2 覆盖结果" MODIFIED="1730691058119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp6" />
   </component>
 </project>
